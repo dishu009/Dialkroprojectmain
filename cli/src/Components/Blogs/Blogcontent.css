@@ -1,0 +1,11 @@
+.custom-bg {
+ 
+    background-image: url('https://api.time.com/wp-content/uploads/2020/07/never-trumpers-2020-election-01.jpg?quality=85&amp;w=1201&amp;h=676&amp;crop=1');
+    background-size: cover;
+    background-position: center;
+}
+
+.blogcontent-img{
+    background-image: linear-gradient(180deg,transparent,rgba(0,0,0,.7));
+}
+
